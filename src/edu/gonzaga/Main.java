@@ -9,6 +9,10 @@ class Adder {
         val2 = new_val2;
     }
 
+    public int addVals()
+    {
+        return val1 + val2;
+    }
 
 }
 
