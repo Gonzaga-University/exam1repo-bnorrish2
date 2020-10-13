@@ -1,8 +1,8 @@
 package edu.gonzaga;
 
 class Adder {
-    private int val1;
-    private int val2;
+    int val1;
+    int val2;
 
     public Adder(int new_val1, int new_val2) {
         val1 = new_val1;
